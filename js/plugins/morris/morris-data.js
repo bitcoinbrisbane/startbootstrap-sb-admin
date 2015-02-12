@@ -9,52 +9,52 @@ $(function() {
             period: '2013 Q1',
             Gold: 1100,
             Bitcoin: 140,
-            itouch: 2647
+            Silver: 17
         }, {
             period: '2013 Q2',
             Gold: 1180,
             Bitcoin: 160,
-            itouch: 2441
+            Silver: 17
         }, {
             period: '2013 Q3',
             Gold: 800,
             Bitcoin: 800,
-            itouch: 2501
+            Silver: 18
         }, {
             period: '2013 Q4',
             Gold: 1300,
             Bitcoin: 1300,
-            itouch: 5689
+            Silver: 17
         }, {
             period: '2014 Q1',
             Gold: 1400,
             Bitcoin: 800,
-            itouch: 2293
+            Silver: 16
         }, {
             period: '2014 Q2',
             Gold: 1200,
             Bitcoin: 600,
-            itouch: 1881
+            Silver: 15
         }, {
             period: '2014 Q3',
             Gold: 1250,
             Bitcoin: 450,
-            itouch: 1588
+            Silver: 12
         }, {
             period: '2014 Q4',
             Gold: 1200,
             Bitcoin: 350,
-            itouch: 5175
+            Silver: 17
         }, {
             period: '2015 Q1',
             Gold: 1290,
             Bitcoin: 240,
-            itouch: 40
+            Silver: 19
         }, {
             period: '2015 Q2',
             Gold: 1300,
             Bitcoin: 220,
-            itouch: 45
+            Silver: 18
         }],
         xkey: 'period',
         ykeys: ['Gold', 'Bitcoin', 'Silver'],
@@ -68,13 +68,13 @@ $(function() {
     Morris.Donut({
         element: 'morris-donut-chart',
         data: [{
-            label: "Download Sales",
+            label: "Silver",
             value: 12
         }, {
-            label: "In-Store Sales",
+            label: "Gold",
             value: 30
         }, {
-            label: "Mail-Order Sales",
+            label: "Bitcoin",
             value: 20
         }],
         resize: true
