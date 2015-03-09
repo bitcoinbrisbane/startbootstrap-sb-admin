@@ -1,0 +1,15 @@
+{
+    "asset_ids": [
+    "oRXwU9ZoSFy1cJBd1vN6QS8e3KL8VK18B9"
+    ],
+    "name_short": "XAU",
+    "name": "Gold 1gm",
+    "contract_url": "myvault-dev.azurewebsites.net",
+    "issuer": "Bullion Mark",
+    "description": "1 gram of Gold",
+    "type": "Commodity",
+    "divisibility": 0,
+    "icon_url": "<url>",
+    "image_url": "<url>",
+    "version": "0.0.1"
+}
