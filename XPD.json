@@ -2,11 +2,11 @@
     "asset_ids": [
     "oRXwU9ZoSFy1cJBd1vN6QS8e3KL8VK18B9"
     ],
-    "name_short": "XAP",
-    "name": "Platinum 1gm",
+    "name_short": "XPD",
+    "name": "Palladium 1gm",
     "contract_url": "myvault-dev.azurewebsites.net",
     "issuer": "Bullion Mark",
-    "description": "1 gram of Platinum",
+    "description": "1 gram of Palladium",
     "type": "Commodity",
     "divisibility": 0,
     "icon_url": "<url>",
